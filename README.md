@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Karacakayalilar
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on Basic Projects
+- 📫 How to reach me baykartavsani@gmail.con or ali.karacakayalilar@hotmail.com
